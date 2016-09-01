@@ -22,8 +22,8 @@ Get the source from the Git repo
 
 Compiling Cyclus
 ================
-.. include:: ../extern/CYCLUS_INSTALL.rst
-   :start-line: 38
+.. include:: CYCLUS_INSTALL.rst
+   :start-line: 36
    :end-line: 138
 
 
